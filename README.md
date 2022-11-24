@@ -1,5 +1,5 @@
 # PKG
-A terrible package manager/bootstrapper written in go.
+A package manager/bootstrapper written in go.
 
 This is barely a package manager, it uses github api and only supports a very
 limited number of packages(more limited than you expect).
